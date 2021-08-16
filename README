@@ -1,0 +1,11 @@
+This is a repository for miscellaneous claspy-based solvers.
+
+You can expect the contents to be:
+ 1) Rather low-quality, on-the-fly solvers written for puzzle hunts
+ 2) Solvers for types that basically no one has ever heard of
+ 3) Random things I write to help me construct puzzles
+ 4) Code fragments that are broken or unusable unless you're me
+
+I apologize for the sheer uselessness of the code herein, and the only reasons for this repository's existence are claspy's GPL and my desire to save the semi-working code that I've written for puzzle hunts.
+
+The solvers are dependent on [claspy](https://github.com/danyq/claspy), and many of them are also dependent on [Noq utils](https://github.com/mstang107/noq/tree/main/src/utils).
